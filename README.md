@@ -4,7 +4,7 @@ About me:
 >A amateur Vietnamese programmer (might be software engineer/cyber security in the future).\
 >I usually do open source application and open source code with MIT or GNU GPLv3 license\
 >Now, I'm using Python as my main programming language💻.\
->📖I'm learning C++/C, Web3, game dev and Cython.\
+>📖I'm learning C++/C, game dev and Cython.\
 >🛠I'm working on two of my projects are: **`cliPy`** and **`pymacro`**\
 >and expect a quadrillion sub-sub-projects.\
 >and i like to sometimes test on virtual machine**s**
