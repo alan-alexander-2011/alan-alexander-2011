@@ -14,3 +14,7 @@ About me:
 [![trophy](https://github-profile-trophy.vercel.app/?username=alan-alexander-1011&theme=apprentice&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alan-alexander-1011&theme=transparent&bg_color=00000000&title_color=FFFFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+
+![alan-alexander-1011's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alan-alexander-1011&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
+![alan-alexander-1011's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alan-alexander-1011&theme=dark&hide_border=false)
