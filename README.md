@@ -5,6 +5,7 @@ About me:
 >I usually do open source application and open source code with MIT or GNU GPLv3 license\
 >Now, I'm using Python as my main programming language💻.\
 >📖I'm learning C++/C, game dev and Cython.\
+>And i am trying to get into game cheat developing, but i will use dll injection will it will 100% get detected\
 >🛠I'm working on two of my projects are: **`cliPy`** and **`pymacro`**\
 >and expect a quadrillion sub-sub-projects.\
 >and i like to sometimes test on virtual machine**s**
