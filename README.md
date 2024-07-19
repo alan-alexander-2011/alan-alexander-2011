@@ -6,7 +6,6 @@ About me:
 >Now, I'm using Python as my main programming language💻.\
 >📖I'm learning C++/C, game dev and Cython.\
 >And i am trying to get into game cheat developing, but i will use dll injection will it will 100% get detected\
->🛠I'm working on two of my projects are: **`sheats`** (shit cheats) and alot of other projects\
 >and expect a quadrillion sub-sub-projects.\
 >and i like to sometimes test on virtual machine**s**
 
