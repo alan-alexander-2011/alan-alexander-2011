@@ -1,13 +1,11 @@
 **Hi, I'm alexander**
 
 About me:
->A amateur Vietnamese programmer (might be software engineer/cyber security in the future).\
+>A senior 13 y/o Vietnamese programmer (might be software engineer/cyber security in the future).\
 >I usually do open source application and open source code with MIT or GNU GPLv3 license\
->Now, I'm using Python as my main programming language💻.\
->📖I'm learning C++/C, game dev and Cython.\
->And i am trying to get into game cheat developing, but i will use dll injection will it will 100% get detected\
+>C/C++ and Python is my main.
 >and expect a quadrillion sub-sub-projects.\
->and i like to sometimes test on virtual machine**s**
+>I'm the world champion of the International Drone & Robot Coding Competition 2024 took place in Hanoi, Vietnam (group category)
 
 [![My Codewars](https://www.codewars.com/users/alan_alexander/badges/large)](https://www.codewars.com/users/alan_alexander/badges/large)
 
