@@ -5,7 +5,7 @@ About me:
 >I usually do open source application and open source code with MIT or GNU GPLv3 license\
 >C/C++ and Python is my main.
 >and expect a quadrillion sub-sub-projects.\
->I'm the world champion of the International Drone & Robot Coding Competition 2024 took place in Hanoi, Vietnam (group category)
+>I'm the gold medalist of the International Drone & Robot Coding Competition 2024 took place in Hanoi, Vietnam (group category)
 
 [![My Codewars](https://www.codewars.com/users/alan_alexander/badges/large)](https://www.codewars.com/users/alan_alexander/badges/large)
 
